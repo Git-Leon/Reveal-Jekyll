@@ -1,34 +1,11 @@
 ---
-layout: reveal
+layout: default
+title: "Curriculeon Jekyll Spring Security Project Template!"
 ---
-<!-- Use presentation as layout and use the _slides folder to create a file per slide -->
 
-<!-- Use raw as layout and write the presentation as markdown here -->
-# First Slide
-
-stuff
-
-___  <!-- "___" Makes a basement slide -->
-
-# Basement 1
-
-Hey, you can still go down
-
-```
-test
-```
-
-___
-
-# Basement 2
-
-You're rock bottom!
-
---- <!-- "---" Makes the next slide -->
-
-# Second slide
-
-stuff
-
-Note:
-This will only display in the notes window.
+## You're ready to go!
+* Start developing your Jekyll website.
+* Click [here](/) to view the Welcome JSP!
+* Click [here](./sample-directory/another-page-to-link-to.md) to view another page in another directory!
+* Click [here](./sample-directory/layout-example-default.md) to view the `default` layout theme!
+* Click [here](./sample-directory/layout-example-revealjs.html) to view the `RevealJS` layout theme!
